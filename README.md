@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Github](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/volkgames/advice-generator.github.io)
+- Live Site URL: [Github](https:/volkgames.github.io/advice.generator.github.io)
 
 ## My process
 
